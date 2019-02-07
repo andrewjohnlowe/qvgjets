@@ -13,3 +13,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/andrewjohnlowe/qvgjets
 BugReports: https://github.com/andrewjohnlowe/qvgjets/issues
+Imports: bookdown
